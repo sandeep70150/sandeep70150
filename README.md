@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Yadav</h1>
 <h3 align="center">Passionate software developer and computer science student</h3>
 
-<img align= "right" alt="Coding" width="400" src="">
+<img align= "right" alt="Coding" width="400" src="https://github.com/sandeep70150/sandeep70150/blob/main/coding%20animation.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep70150&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep70150" /> </p>
 

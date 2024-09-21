@@ -1,8 +1,7 @@
-![logo](https://github.com/sandeep70150/sandeep70150/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Sandeep Yadav</h1>
-<h3 align="center">Passionate software developer and computer science student with expertise in modern frontend and backend technologies. Proficient in multitasking, problem solving, and effective communication. Eager to contribute to innovative projects and refine technical skills.</h3>
+<h3 align="center">Passionate software developer and computer science student</h3>
 
-<img align= "right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fcode-fi-lofi-beats-to-coderelax-to-FvBVst&psig=AOvVaw0mK6_vampsa5zzWLIegFJ1&ust=1727006644501000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjKnp__04gDFQAAAAAdAAAAABB2">
+<img align= "right" alt="Coding" width="400" src="">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep70150&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep70150" /> </p>
 
@@ -12,9 +11,7 @@
 
 - 📫 How to reach me **sandeepyadav53449@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sandeep449/](https://www.linkedin.com/in/sandeep449/)
-
-- ⚡ Fun fact **I think i can make best UI in world**
+- ⚡ Fun fact **I always think i need to learn more**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

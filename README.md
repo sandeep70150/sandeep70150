@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **App dev.**
 
-- 📫 How to reach me **sandeepyadav53449@gmail.com**
+- 📫 How to reach me? **sandeepyadav53449@gmail.com**
 
 - ⚡ Fun fact **I always think i need to learn more**
 
